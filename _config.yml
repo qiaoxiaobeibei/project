@@ -1,1 +1,3 @@
 baseurl: /project
+
+theme: jekyll-theme-slate
